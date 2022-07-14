@@ -54,18 +54,21 @@ const styles = StyleSheet.create({
   },
   img: {
     width : 100,
+    alignItems: 'center',
     height: 150,
     borderRadius:150
   },
   titulo1:{
     marginTop: 40,
     marginVertical: 10,
+    alignItems: 'center',
     fontSize: 20,
     fontFamily:"ZenDots_400Regular"
   },
   titulo2:{
     marginVertical:10,
     fontSize:16,
+    alignItems: 'center',
     fontFamily:"ZenDots_400Regular"
   }
 });
